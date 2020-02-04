@@ -3,7 +3,7 @@ This blog serves a simple purpose: to detail the CTF / security trainings I've c
 
 These write-ups are important to me as a reference moving forward, and hope they will be to fellow learners as well. I spend (perhaps too much) time writing my thought patterns, as I believe stepping into another person's mindset can greatly influence your own understanding of a topic. Keep in mind, that mindset is a growing noob's - keep this in mind as I work!
 
-** Classes are busy now, so content will be sparse for the foreseeable future **
+**Classes are busy now, so content will be sparse for the foreseeable future**
 
 # Contacts
 - Email: komusoo@protonmail.com
