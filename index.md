@@ -6,7 +6,7 @@ These write-ups are important to me as a reference moving forward, and hope they
 ** Classes are busy now, so content will be sparse for the foreseeable future **
 
 # Contacts
-Email: komusoo@protonmail.com
-Steam: CuChuTrainn
-Discord: Whole Horse#7695
-Twitter: TBD
+- Email: komusoo@protonmail.com
+- Steam: CuChuTrainn
+- Discord: Whole Horse#7695
+- Twitter: TBD
