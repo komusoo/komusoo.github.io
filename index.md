@@ -12,3 +12,5 @@ And remember, ignorance breeds suffering - don't stop learning, and git gud
 - Steam: CuChuTrainn
 - Discord: Whole Horse#7695
 - Twitter: TBD
+
+[Link to Bandit here](https://komusoo.github.io/bandit1)
