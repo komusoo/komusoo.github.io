@@ -13,6 +13,6 @@ And remember, ignorance breeds suffering - don't stop learning, and git gud
 - Discord: Whole Horse#7695
 - Twitter: TBD
 
-<a href="bandit1">Page 2</a>
+<a href="https://komusoo.github.io/bandit1">Page 2</a>
 
 [Link to Bandit here](https://komusoo.github.io/bandit1)
