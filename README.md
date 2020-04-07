@@ -15,4 +15,6 @@ And remember, ignorance breeds suffering - don't stop learning, and git gud
 
 <a href="https://komusoo.github.io/bandit1.md">Page 2</a>
 
-[Link to Bandit here](https://komusoo.github.io/bandit1.md)
+[Link to Bandit here](bandit1)
+
+[Link to Bandit here](bandit1.md)
